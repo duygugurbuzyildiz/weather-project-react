@@ -16,7 +16,7 @@ ReactDOM.render(
             Open-source code
           </a>
           , by Duygu Gurbuz Yildiz from 
-          <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">SheCodes
+          <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer"> SheCodes
           </a>.
         </p>
       </div>

@@ -1,0 +1,14 @@
+.WeatherForecast{
+    text-align: center;
+}
+
+.Day{
+    font-weight: bold;
+    opacity: 0.5;
+    margin-bottom: 2px;
+}
+
+.TemperatureMin{
+    opacity: 0.5;
+    margin-left: 3px;
+}

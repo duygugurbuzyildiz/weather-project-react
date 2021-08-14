@@ -2,7 +2,6 @@ form {
     text-align: center;
   }
 a{
-  color: black;
   text-decoration: none;
 }
 .Weather canvas{
@@ -14,22 +13,23 @@ a{
     margin: 30px auto;
     max-width: 800px;
   }
-  
+  .results {
+    margin-top: 5%;
+    text-align: center;
+    list-style-type: none;
+  }
   .city {
     font-size: 45px;
     font-weight: bold;
+  }
+  .mainTemperature{
+
   }
   .dateFormat{
     font-weight: bold;
     font-size: 25px;
     opacity: 0.6;
   }
-  .results {
-    margin-top: 5%;
-    text-align: center;
-    list-style-type: none;
-  }
-
   .temperature{
     font-weight: bold;
     font-size: 60px;
@@ -44,11 +44,5 @@ a{
     position: relative;
     top:-25px;
     margin-left: 5px;
-  }
-
-  .dailyForecast{
-    text-align: center;
-    display: flex;
-    justify-content: space-evenly;
   }
   
